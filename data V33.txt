@@ -46,12 +46,12 @@
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://iili.io/HP8Yzu4.webp"},
+  {"desc2":"The rapid advancements in technology have paved the way for innovative solutions in the realm of security and surveillance","photo2":"https://iili.io/HP8YYFe.png"},
+  {"desc3":"Among these groundbreaking developments is Standoff-5, a cutting-edge system that has revolutionized the way we perceive and implement security measures","photo3":"https://iili.io/HP8YIwl.jpg"},
+  {"desc4":"Standoff-5 combines state-of-the-art hardware, sophisticated software, and advanced artificial intelligence (AI) algorithms to provide enhanced situational awareness","photo4":"https://iili.io/HP8Yx9f.jpg"},
+  {"desc5":"proactive threat detection, and efficient response capabilities. In this article, we will delve into the features, benefits, and potential applications of Standoff-5, exploring its impact on various industries and the broader implications for security and surveillance.","photo5":"https://iili.io/HP8YTt2.jpg"},
+  {"descd":"Standoff-5 represents a significant leap forward in the field of security and surveillance","photod":"https://iili.io/HP8YAnS.jpg"}
    ]
  
 }
