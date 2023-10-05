@@ -31,9 +31,9 @@
 
   
  "more_apps_info":[
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+{"name":"читы стандофф 2 ","package_name":"com.skinscheatsstandoff.gamingskins","icon":"https://play-lh.googleusercontent.com/J-dux8-q6LrFZ4lM7hYjctIcck_lqMXJdvC6eATFU0osI6KOpBOiYyVU_sRR4aB6wPI=w240-h480-rw"},
+  {"name":"читы в стандофф 2 0.25.0","package_name":"com.timecheatsstandoff.modmenugaming","icon":"https://play-lh.googleusercontent.com/tzHp3TL18dgRPCQZuSUbMutE5Avm-jqnR-HykcCkUsOiGqkRsJSLOOntho7TvwojKsk=w240-h480-rw"},
+  {"name":"standoff читы голду","package_name":"com.shootingfreestandoff.gamesgoldgift","icon":"https://play-lh.googleusercontent.com/q3eqyXU2XU2N18o0nBM70kubC_fWFWyJfSVP1IFZuzbOz4ExuGmtTt_dm4owhvJt2pw=w240-h480-rw"}
    ],
 
 "download_dialog_txt":"download text from server",
